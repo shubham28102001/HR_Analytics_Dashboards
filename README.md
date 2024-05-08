@@ -9,8 +9,8 @@ Explore a comprehensive HR Analytics portfolio showcasing data analysis and visu
 | Project | Preview | Description |
 | --- | --- | --- |
 | Power BI HR Analytics Dashboard | ![Power BI HR Analytics Dashboard](assets/PowerBI_Dashboard.jpg) | This dynamic and interactive dashboard emphasizes data integration and features visually appealing visualizations. [View Dashboard (PDF)](assets/powerbi_overview.pdf) |
-| Tableau HR Analytics Dashboard | ![Tableau HR Analytics Dashboard](src/tableau/Snapshot.png) | This Tableau dashboard showcases custom charts and provides insightful trend analyses. |
-| Excel HR Analytics Dashboard | ![Excel HR Analytics Dashboard](assets/excel-snapshot.png) | An interactive Excel dashboard with pivot tables and visually compelling charts. |
+| Tableau HR Analytics Dashboard | ![Tableau HR Analytics Dashboard](assets/Tableau_Dashboard.png) | This Tableau dashboard showcases custom charts and provides insightful trend analyses. |
+| Excel HR Analytics Dashboard | ![Excel HR Analytics Dashboard](assets/Excel_Dashboard.png) | An interactive Excel dashboard with pivot tables and visually compelling charts. |
 
 ---
 
